@@ -1,1 +1,1 @@
-# 7-Days-of-Deep-Learning-for-Natural-Language-Processing
+# mini-course-on-deep-learning-for-text
